@@ -2,8 +2,27 @@ body {
 	color: black;
 	font-family: : Arial;
 }
+
+#header {
+	margin: 0 auto;
+	text-align: center;
+	background-color: lightblue;
+}
+span {
+	font-family: Roboto;
+	font-weight: bold;
+	font-size: 20pt;
+}
+
+#headtext {
+	margin: 5px;
+	font-size: 16pt;
+	font-family: Roboto;
+}
+
 h1 {
 	font-family: Arial;
+	color: salmon;
 }
 .button {
 	background-color: green;
