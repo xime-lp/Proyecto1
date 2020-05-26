@@ -1,4 +1,13 @@
 body {
 	color: salmon;
-	font-family: : cursive;
+	font-family: : Arial;
+}
+h1 {
+	font-family: Arial;
+}
+div {
+	background-color: green;
+	height: 20px;
+	width: 50px;
+	margin: 2px;
 }
