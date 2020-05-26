@@ -1,9 +1,10 @@
 body {
-	color: salmon;
+	color: black;
 	font-family: : Arial;
 }
 h1 {
 	font-family: Arial;
+	color: salmon;
 }
 .button {
 	background-color: green;
